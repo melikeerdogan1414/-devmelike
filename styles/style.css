@@ -1,1 +1,90 @@
+body{
+    background-color: #f5efe6;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
 
+h1{
+    color: #6f4e37;
+}
+
+h2{
+    color: #8b5e3c;
+}
+
+p{
+    color: #333333;
+    line-height: 1.6;
+}
+
+a{
+    text-decoration: none;
+    color: #6f4e37;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #a0522d;
+}
+
+img{
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: #8b5e3c;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #6f4e37;
+}
+
+.menu{
+    margin-bottom: 20px;
+}
+
+.urun{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+hr{
+    border: 1px solid #d6c4b2;
+}
+
+table{
+    border-collapse: collapse;
+    background-color: white;
+}
+
+table, th, td{
+    border: 1px solid #6f4e37;
+}
+
+th, td{
+    padding: 10px;
+    text-align: center;
+}
+
+.logo{
+    width: 60px;
+    vertical-align: middle;
+}
+
+.baslik{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
